@@ -3,7 +3,7 @@ from conans import ConanFile, CMake, tools
 
 class XtlConan(ConanFile):
     name = "xtl"
-    version = "0.6.3"
+    version = "0.6.4"
     license = "BSD 3-Clause"
     url = "https://github.com/QuantStack/xtl"
     description = "The x template library"
